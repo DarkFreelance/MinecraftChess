@@ -2,6 +2,8 @@
 
 Commission
 
+[![wakatime](https://wakatime.com/badge/github/regulad/MinecraftChess.svg)](https://wakatime.com/badge/github/regulad/MinecraftChess)
+
 ## Development
 
 This project requires Java 8 and Spigot 1.16.5.
